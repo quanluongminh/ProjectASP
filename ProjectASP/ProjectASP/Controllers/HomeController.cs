@@ -11,7 +11,6 @@ namespace ProjectASP.Controllers
         public ActionResult Index()
         {
             return View();
-            //aasdsfasfds
         }
 
         public ActionResult About()
