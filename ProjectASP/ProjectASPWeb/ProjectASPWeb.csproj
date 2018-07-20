@@ -162,7 +162,15 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="images\mountain\Chrysanthemum.jpg" />
+    <Content Include="images\mountain\Desert.jpg" />
+    <Content Include="images\mountain\Hydrangeas.jpg" />
+    <Content Include="images\mountain\Jellyfish.jpg" />
+    <Content Include="images\mountain\Koala.jpg" />
+    <Content Include="images\mountain\Lighthouse.jpg" />
+    <Content Include="images\mountain\Penguins.jpg" />
     <Content Include="images\mountain\picture.jpg" />
+    <Content Include="images\mountain\Tulips.jpg" />
     <Content Include="images\videos\fun.webm" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
